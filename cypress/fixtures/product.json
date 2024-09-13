@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sauce Labs Backpack",
+        "price": 29.99,
+        "description": "A red backpack with the Sauce Labs logo."
+    },
+    {
+        "id": 2,
+        "name": "Sauce Labs Bike Light",
+        "price": 9.99,
+        "description": "A bike light with the Sauce Labs logo."
+    },
+    {
+        "id": 3,
+        "name": "Sauce Labs Bolt T-Shirt",
+        "price": 15.99,
+        "description": "A t-shirt with the Sauce Labs bolt logo."
+    },
+    {
+        "id": 4,
+        "name": "Sauce Labs Fleece Jacket",
+        "price": 49.99,
+        "description": "A fleece jacket with the Sauce Labs logo."
+    },
+    {
+        "id": 5,
+        "name": "Sauce Labs Onesie",
+        "price": 7.99,
+        "description": "A onesie with the Sauce Labs logo."
+    },
+    {
+        "id": 6,
+        "name": "Test.allTheThings() T-Shirt (Red)",
+        "price": 15.99,
+        "description": "A red t-shirt with the Test.allTheThings() logo."
+    }
+]
